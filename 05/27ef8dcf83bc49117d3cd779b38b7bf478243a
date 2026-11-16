@@ -1,0 +1,26 @@
+actionview/lib/action_view/helpers/tag_helper.rb
+  s_581357754aac6f::t_925e88492cd7cc 1826
+  s_581357754aac6f::t_f603244286da04 1571,1642-1646,1827-1828,1897-1909
+actionview/test/template/tag_helper_test.rb
+  s_581357754aac6f::t_925e88492cd7cc 613,635,647-653,657-658,661
+  s_581357754aac6f::t_f603244286da04 4,605-612,614-634,636-646,654-656,659-660,662
+  s_581357754aac6f::t_1ee4c8023f71dc 663
+actionview/CHANGELOG.md
+  s_581357754aac6f::t_1956f0d926af6c 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0527ef8dcf83bc49117d3cd779b38b7bf478243a",
+  "prompts": {},
+  "sessions": {
+    "s_581357754aac6f": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "274a9fa9-39c9-4bd7-97fa-e5d423e89132",
+        "model": "unknown"
+      },
+      "human_author": "Alexander Senko <Alexander.Senko@gmail.com>"
+    }
+  }
+}
