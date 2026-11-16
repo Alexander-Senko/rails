@@ -1,0 +1,35 @@
+actionview/lib/action_view/helpers/tag_helper.rb
+  s_581357754aac6f::t_f603244286da04 1646
+  s_581357754aac6f::t_c1bc9e44e16ab2 1571,1896
+  s_581357754aac6f::t_1e339316798a3c 1572
+  s_581357754aac6f::t_7f4a3f5c3d2b4c 1748-1750
+  s_581357754aac6f::t_c2d98ad7fc2aab 1643-1645,1893
+actionview/test/template/tag_helper_test.rb
+  s_581357754aac6f::t_925e88492cd7cc 614
+  s_581357754aac6f::t_f603244286da04 608,610,611,616-617,633
+  s_581357754aac6f::t_1ee4c8023f71dc 634
+  s_581357754aac6f::t_1e339316798a3c 601,615
+  s_581357754aac6f::t_7f4a3f5c3d2b4c 618,625-627,632
+  s_581357754aac6f::t_530b303c502cf5 609,612-613
+  s_581357754aac6f::t_c2d98ad7fc2aab 602-603,607,628-629
+  s_581357754aac6f::t_2a801d8059cb43 619-624,630-631
+actionview/CHANGELOG.md
+  s_581357754aac6f::t_1956f0d926af6c 2-4
+  s_581357754aac6f::t_c2d98ad7fc2aab 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "044d625d7e5ce4e4a5562a1826c3f47fe5d4073a",
+  "prompts": {},
+  "sessions": {
+    "s_581357754aac6f": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "274a9fa9-39c9-4bd7-97fa-e5d423e89132",
+        "model": "unknown"
+      },
+      "human_author": "Alexander Senko <Alexander.Senko@gmail.com>"
+    }
+  }
+}
