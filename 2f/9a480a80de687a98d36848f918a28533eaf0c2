@@ -1,0 +1,19 @@
+actionview/lib/action_view/helpers/tag_helper.rb
+  s_581357754aac6f::t_b71d40994ee635 1745-1746
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2f9a480a80de687a98d36848f918a28533eaf0c2",
+  "prompts": {},
+  "sessions": {
+    "s_581357754aac6f": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "274a9fa9-39c9-4bd7-97fa-e5d423e89132",
+        "model": "unknown"
+      },
+      "human_author": "Alexander Senko <Alexander.Senko@gmail.com>"
+    }
+  }
+}
